@@ -1,6 +1,4 @@
-# Fernanda-Silva-Messias
-<! --
-**Olá, me chamo Fernanda**
+**Olá, me chamo Fernanda!**
 ## Bem vindo ao meu perfil do GitHUb 👋
 - 🔭 Atualmente estou estudando programação para desenvolvimento WEB.
 - 🌱 Atualmente estou aprendendo JavaScript, HTML e CSS.
@@ -8,7 +6,7 @@
 - 📫 Como entrar em contato comigo: e-mail (cassiafernandamessias@gmail.com)
 - 😄 Pronomes: gosto de ser chamada de Fernanda.  :)
 - ⚡ Curiosidade: Amo plantas, paisagismo e Design de Interiores.
--->
+
 
   ## Ferramentas e Tecnologias
 
