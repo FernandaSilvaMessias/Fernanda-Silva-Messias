@@ -1,5 +1,5 @@
 **Olá, me chamo Fernanda!**
-## Bem vindo ao meu perfil do GitHUb 👋
+## Bem vindo ao meu perfil do GitHub 👋
 - 🔭 Atualmente estou estudando programação para desenvolvimento WEB.
 - 🌱 Atualmente estou aprendendo JavaScript, HTML e CSS.
 - 👯 Estou procurando colaborar em projetos impactantes e inovadores.
